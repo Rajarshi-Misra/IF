@@ -10,7 +10,7 @@
     <a href="#Two">Two</a>
     <a href="#Three">Three</a>
     <a href="#Four">Four</a>
-    <h2 id="One:>Favorite Foods</h2>
+    <h2 id="One">Favorite Foods</h2>
         <ul>
             <li>Apples</li>
             <li>Pizza</li>
